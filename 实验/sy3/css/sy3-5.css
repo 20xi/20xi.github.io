@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	width: 400px;
+	height: 250px;
+	border: dashed;
+	border-color: #64B4F1;
+}
+#main_block{
+	background-color: #B5DCEC;
+	border:2px #8BCEF7;
+	width: 400px;
+	height: 250px;
+	margin:0px;
+}
+.div2{
+	width: 400px;
+	height: 150px;
+}
+h1{
+	margin: auto;
+	padding: 3px 0 3px 0;
+	text-align: center;
+}
+hr{
+	height: 1.5px;
+	border: none;
+	background:#64B4F1;
+	width: 350px;
+}
+.p1{
+	margin-left: 10px;
+	padding-left: 5px;
+}
+.p2{
+	padding-top: 10px;
+	text-align: center;
+}
+.input1{
+	background: #FFF no-repeat left center;
+}

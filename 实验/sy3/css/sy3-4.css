@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	height: 100%;
+	position: relative;
+}
+.block{     /*设置主体容器的样式*/
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 16px;
+	float: none;
+	width:100%;
+	text-align: center;
+}
+.content{    /*设置内容区域样式*/
+	float: none;
+	margin: 10px;
+	text-align: center;
+}
+.table{
+	width:100%;
+	border-bottom-color: #000000;
+	padding: 0 0 0 0px;
+}
+.tr1{
+	color: #F2F2F2;
+	background: #4E6C93;
+}
+.tr2{
+	background: #C2E0E7;
+}
+.tr3{
+	background: #CFDC99;
+}
